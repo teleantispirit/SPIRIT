@@ -241,7 +241,8 @@ function create_config( )
     "tophoto",
     "tosticker",
     "voice",
-    "welcome"
+    "welcome",
+    "msgremove"
     },
     sudo_users = {129355262,207348741,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
